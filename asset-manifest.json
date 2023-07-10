@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/interpark/static/css/main.d5299508.css",
-    "main.js": "/interpark/static/js/main.ace93185.js",
+    "main.css": "/interpark/static/css/main.8878866e.css",
+    "main.js": "/interpark/static/js/main.eaf9710a.js",
     "static/js/787.c5afbc2f.chunk.js": "/interpark/static/js/787.c5afbc2f.chunk.js",
     "index.html": "/interpark/index.html",
-    "main.d5299508.css.map": "/interpark/static/css/main.d5299508.css.map",
-    "main.ace93185.js.map": "/interpark/static/js/main.ace93185.js.map",
+    "main.8878866e.css.map": "/interpark/static/css/main.8878866e.css.map",
+    "main.eaf9710a.js.map": "/interpark/static/js/main.eaf9710a.js.map",
     "787.c5afbc2f.chunk.js.map": "/interpark/static/js/787.c5afbc2f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d5299508.css",
-    "static/js/main.ace93185.js"
+    "static/css/main.8878866e.css",
+    "static/js/main.eaf9710a.js"
   ]
 }
